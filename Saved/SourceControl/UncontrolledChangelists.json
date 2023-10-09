@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/MainMenu/CameraSlide.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/TT/SQNP8ZK137TPNN7U8OUAOQ.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/MainMenu/Menu.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/MainMenu/Buttons.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/MainMenu/QuitButton.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/MainMenu/SettingsButton.uasset",
+				"C:/Users/ALEJANDRO/Documents/Unreal Projects/UISettings/Content/MainMenu/MainLevel.umap"
+			]
+		}
+	]
+}
